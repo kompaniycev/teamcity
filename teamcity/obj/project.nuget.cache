@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "njnpAI7R+P+oAN94EBhkyaayeuWxfdsa3VUQS6ugEVOlhv9FsRAoUXcbfKi05CksbsTUXJ9CGD3KglqmWTN0kQ==",
+  "dgSpecHash": "BDHFDwcxzDcttOoi8raeBthhaY5bzL0kTOo3C6bi1caQz2bU57Ne7vwH7wXFKVzwJ6lwsH0BkBrL/62g3z1t6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\source\\repos\\teamcity\\teamcity\\teamcity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nunit.console\\3.13.2\\nunit.console.3.13.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nunit.consolerunner\\3.13.2\\nunit.consolerunner.3.13.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -43,6 +43,14 @@
             "NUnit": {
               "target": "Package",
               "version": "[3.13.2, )"
+            },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.13.2, )"
             }
           },
           "imports": [

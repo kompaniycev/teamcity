@@ -43,6 +43,14 @@
             "NUnit": {
               "target": "Package",
               "version": "[3.13.2, )"
+            },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.13.2, )"
             }
           },
           "imports": [
@@ -116,6 +124,14 @@
             "NUnit.Analyzers": {
               "target": "Package",
               "version": "[3.3.0, )"
+            },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.13.2, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
