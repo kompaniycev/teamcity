@@ -42,7 +42,7 @@
           "dependencies": {
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.3, )"
+              "version": "[3.13.2, )"
             }
           },
           "imports": [
@@ -111,7 +111,7 @@
             },
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.3, )"
+              "version": "[3.13.2, )"
             },
             "NUnit.Analyzers": {
               "target": "Package",
