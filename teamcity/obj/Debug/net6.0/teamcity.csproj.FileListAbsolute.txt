@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\teamcity\teamcity\bin\Debug\net6.0\teamcity.exe
+C:\Users\User\source\repos\teamcity\teamcity\bin\Debug\net6.0\teamcity.deps.json
+C:\Users\User\source\repos\teamcity\teamcity\bin\Debug\net6.0\teamcity.runtimeconfig.json
+C:\Users\User\source\repos\teamcity\teamcity\bin\Debug\net6.0\teamcity.dll
+C:\Users\User\source\repos\teamcity\teamcity\bin\Debug\net6.0\teamcity.pdb
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\teamcity.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\teamcity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\teamcity.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\teamcity.AssemblyInfo.cs
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\teamcity.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\teamcity.dll
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\refint\teamcity.dll
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\teamcity.pdb
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\teamcity.genruntimeconfig.cache
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\ref\teamcity.dll
+C:\Users\User\source\repos\teamcity\teamcity\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\User\source\repos\teamcity\teamcity\obj\Debug\net6.0\teamcity.csproj.CopyComplete
